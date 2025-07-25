@@ -1,0 +1,55 @@
+Relatório de Anotações de Leitura
+====================================
+
+Professor: Marcelo Rocha Janhauqe
+Tema: 
+Data Geral: 23/07/2025
+Série: 2 ano b
+Local: Sala 13
+
+------------------------------------
+
+Registro #1
+Aluno: EXEMPLO DE ALUNO
+Data: 24/07/2025
+Hora: 20:36
+Frequência: Presente
+Atividade: Leitura
+Conceito: Boa leitura
+Leitura: Fluida, Expressiva
+Observações: Participou bem.
+------------------------------------
+
+Registro #2
+Aluno: marcos 
+Data: 24/07/2025
+Hora: 20:36
+Frequência: Presente
+Atividade: Leitura
+Conceito: Ótima leitura
+Leitura: Lenta
+Observações: 
+------------------------------------
+
+Registro #3
+Aluno: marcos
+Data: 24/07/2025
+Hora: 20:37
+Frequência: Presente
+Atividade: Leitura
+Conceito: Ótima leitura
+Leitura: Expressiva
+Observações: 
+------------------------------------
+
+Registro #4
+Aluno: jose
+Data: 25/07/2025
+Hora: 10:18
+Frequência: Presente
+Atividade: Leitura
+Conceito: Ótima leitura
+Leitura: Lenta
+Observações: 
+------------------------------------
+
